@@ -5,3 +5,4 @@ config.py
 config.pyc
 old/
 marketing graphics/
+.DS_Store
