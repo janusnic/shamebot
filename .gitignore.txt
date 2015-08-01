@@ -1,7 +1,0 @@
-*.pyc
-*.pyo
-*.db
-config.py
-config.pyc
-old/
-marketing graphics/
